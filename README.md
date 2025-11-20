@@ -12,3 +12,19 @@
           </div>
     </div>
     
+<div align="center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📌 About Me </h2>
+  <br>
+
+  <!-- 자기소개 문구 -->
+  <div style="font-weight: 600; font-size: 16px; color: #282d33; line-height: 1.6;">
+
+  👋 안녕하세요!  
+  저는 **AI / 게임 개발**에 관심이 많고,  
+  알고리즘과 프로그래밍 역량을 키우기 위해 꾸준히 공부하고 있습니다.  
+
+  새로운 기술을 배우는 걸 좋아하며  
+  문제를 해결하는 과정에서 큰 즐거움을 느낍니다!  
+  <br><br>
+  </div>
+</div>
