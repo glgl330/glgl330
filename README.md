@@ -8,22 +8,15 @@
 
 ## 📌 About Me
 
-간단한 소개를 적어주세요.  
-예:  
-- AI·게임 개발을 공부하는 학생입니다.  
+
+- 컴퓨터 언어를 공부하는 학생입니다.  
 - 머신러닝, 알고리즘, 게임 개발에 관심이 많습니다.  
 
 ---
 
 ## 🧠 What I'm Studying
 
-- Machine Learning (CNN, Transformer 등)
-- Deep Learning
-- Game Development (Unity / Unreal)
-- Algorithms & Data Structures
-- Python / Java / C++
-
-> 필요한 공부 항목을 자유롭게 추가하세요!
+- Python /  / C
 
 ---
 
